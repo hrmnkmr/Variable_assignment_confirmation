@@ -1,0 +1,16 @@
+var variableNumber = 1234;
+console.log(variableNumber);
+var variableText = "Text";
+console.log(variableText);
+var variableBoolean = true;
+console.log(variableBoolean);
+var AddNumber = 10 + 20;
+console.log(AddNumber);
+var SubtractNumber = 20 - 10;
+console.log(SubtractNumber);
+var MultiplicationNumber = 50 * 2;
+console.log(MultiplicationNumber);
+var DivisionNumber = 20 / 2;
+console.log(DivisionNumber);
+var result = '結果：' + 12 + 34;
+console.log(result);
